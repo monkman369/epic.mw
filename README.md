@@ -1,6 +1,6 @@
 # site
 
-Website for MimbleWimble and Grin.
+Website for MimbleWimble and EPIC.
 
 ## Local run
 
